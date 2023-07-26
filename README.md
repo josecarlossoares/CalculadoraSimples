@@ -1,2 +1,2 @@
 # CalculadoraSimples
-CodePark Softex - Lógica de programção
+CodePark Softex - Lógica de programação
