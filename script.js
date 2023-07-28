@@ -7,7 +7,7 @@ function calc(valor1, valor2, op){
                 break;
             case 2:
                 result = valor1 - valor2
-                breakk;
+                break;
             case 3:
                 result = valor1 * valor2
                 break;
